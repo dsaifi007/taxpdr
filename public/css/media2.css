@@ -1,0 +1,133 @@
+@media (min-width:1180px) {
+	.wrapper{width:1170px}
+}
+
+@media (min-width:1024px) and (max-width:1179px) {
+	.my-jobs .card-property li {width: 49%; margin: 0 10px 0 10px;}
+	.prop-cal .form-contro {padding: 8px;}
+	.check-out .add-payment ul li {width: 23.4%;}
+}
+
+@media (min-width:768px) and (max-width:1023px) {
+	.main-header .header-top .top-left, .main-header .header-top .top-right, .main-header .logo-outer, .main-menu {float: none; margin: 0 auto;}
+	.main-header .logo-outer {text-align: center;}
+	.main-menu {text-align: center; width: 100%;}
+	.main-menu .navigation > li {float: none; display: inline-block;}
+	.main-menu .navigation > li > a {padding: 15px 0px;}
+	.metis.tparrows {width: 40px; height: 40px;}
+	.tparrows::before {line-height: 22px;}
+	.tp-mask-wrap {}
+	.main-slider h1 {width: 100%;}
+	.sign-in {padding: 40px 0;}
+	.sign-in .sign-in-left h3 {padding-top: 0; margin-bottom: 20px; text-align: center; font-size: 24px;}
+	.sign-in .sign-in-left h3 br {float:left;}
+	.recover-password .sign-in-left h3 {font-size: 22px;}
+	.check-out .add-payment {text-align: center;}
+	.check-out .add-payment ul li {width: 47%; margin: 0 8px 15px 8px;}
+	.my-request .card-property {text-align: center;}
+	.my-request .card-property li {margin: 0 10px 20px 10px; width: 47%;}
+	.prop-cal .col-md-3 {padding-right: 15px !important;}
+	.my-request .card-property {text-align: left;}
+	.create-request .col-md-5{padding-left: 15px !important;}
+	.my-request .card-property li {width: 46.5%;}
+	.my-request .card-property li ol li .icon {width: 9%;}
+	.my-request .card-property li ol li .content {width: 88%;}
+	.edit-proper-ty .col-md-5 {padding-left: 15px !important;}
+	.main-slider h1 {font-size: 45px !important;}
+	.bg-white .col-md-4 {padding-right: 15px!important;}
+}
+
+@media (min-width:600px) and (max-width:767px) {
+	.sign-in {padding: 40px 0;}
+	.sign-in .sign-in-left h3 {padding-top: 0; margin-bottom: 20px; text-align: center; font-size: 24px;}
+	.recover-password .sign-in-left h3 {font-size: 22px;}
+	.sign-in .sign-in-left h3 br {float:left;}
+	.sign-in .sign-in-right .form-group .col-sm-3 {padding-right: 15px !important; margin-bottom: 15px;}
+	.check-out .add-payment {text-align: center;}
+	.check-out .add-payment ul li {width: 47%; margin: 0 8px 15px 8px;}
+	.my-request .card-property li {margin: 0 0 20px 0; width: 100%; display: block; height: auto;}
+	.my-request .card-property li:last-child {margin-bottom: 0;}
+	.sp-page-title {padding: 35px 0;}
+	.prop-cal .col-md-3 {padding-right: 15px !important;}
+	.send-request-left {margin-bottom: 20px;}
+	.width-in {width: 640px;}
+	.StripeElement {width: 100%;}	
+	.form-row .table-responsive {overflow-x: scroll;}
+	.create-request .col-md-5{padding-left: 15px !important;}
+	.edit-proper-ty .col-md-5 {padding-left: 15px !important;}
+	.main-slider h1 {font-size: 42px !important;}
+	.bg-white .col-md-4 {padding-right: 15px!important;}
+}
+
+@media (min-width:480px) and (max-width:599px) {
+	.wrapper{width:455px}
+	.sign-in {padding: 40px 0;}
+	.sign-in .sign-in-left h3 {padding-top: 0; margin-bottom: 20px; text-align: center; font-size: 22px; line-height: 28px;}
+	.recover-password .sign-in-left h3 {font-size: 20px;}
+	.sign-in .sign-in-left h3 br {float:left;}
+	.sign-in .sign-in-right .form-group .col-sm-3 {padding-right: 15px !important; margin-bottom: 15px;}
+	.create-request .body-inner {padding: 0;}
+	.create-request .card .card-content .tow-btn .btn-style-one {padding: 10px 18px;}
+	.my-request .nav-tabs > li {float: none; text-align: left;}
+	.check-out .add-payment {text-align: center;}
+	.check-out .add-payment ul li {width: 100%; margin: 0 0 15px 0; display: block;}
+	.my-request .card-property {text-align: center;}
+	.my-request .card-property li {margin: 0 0 20px 0; width: 100%; display: block; height: auto;}
+	.my-request .card-property li:last-child {margin-bottom: 0;}
+	.my-request .card-property li ol li .icon {width: 11%;}
+	.my-request .card-property li ol li .content {text-align: left; width: 85%;}
+	.prop-cal .col-md-3 {padding-right: 15px !important;}
+	.sp-page-title {padding: 25px 0;}
+	.send-request-left {margin-bottom: 20px;}
+	.width-in {width: 640px;}
+	.StripeElement {width: 100%;}
+	.form-row .table-responsive {overflow-x: scroll;} 
+	.create-request .col-md-5{padding-left: 15px !important;}
+	.create-request .tow-btn .btn-style-one {padding: 8px 10px;}
+	.edit-proper-ty .col-md-5 {padding-left: 15px !important;}
+	.main-slider h1 {font-size: 28px !important; width: 100%;}
+<<<<<<< HEAD
+	.tp-revslider-slidesli .text  {text-align: inherit !important; width: 100% !important;}
+=======
+	.main-slider .text  {text-align: inherit !important; width: 460px !important;}
+	.bg-white .col-md-4 {padding-right: 15px!important;}
+>>>>>>> d98132e7a442850a07548adefe7a5e700121073b
+}
+
+@media (max-width:479px) {
+	.wrapper{width:95%}
+	.sign-in {padding: 40px 0;}
+	.sign-in .sign-in-left h3 {padding-top: 0; margin-bottom: 20px; text-align: center; font-size: 22px; line-height: 28px;}
+	.recover-password .sign-in-left h3 {font-size: 20px;}
+	.sign-in .sign-in-left h3 br {float:left;}
+	.sign-in .sign-in-right .form-group .col-sm-3 {padding-right: 15px !important; margin-bottom: 15px;}
+	.create-request .body-inner {padding: 0;}
+	.create-request .card .card-content .tow-btn .btn-style-one {padding: 10px 25px;}
+	.create-request .card .card-content .tow-btn .btn-style-one:first-child {margin-right: 0; margin-bottom: 10px;}
+	.create-request .card .card-content .tow-btn .btn-style-one {display: block;}
+	.my-request .nav-tabs > li {float: none; text-align: left;}
+	.check-out .add-payment {text-align: center;}
+	.check-out .add-payment ul li {width: 100%; margin: 0 0 15px 0; display: block;}
+	.my-request .card-property {text-align: center;}
+	.my-request .card-property li {margin: 0 0 20px 0; width: 100%; display: block; height: auto;}
+	.my-request .card-property li:last-child {margin-bottom: 0;}
+	.my-request .card-property li ol li .icon {width: 11%;}
+	.my-request .card-property li ol li .content {text-align: left; width: 85%;}
+	.prop-cal .col-md-3 {padding-right: 15px !important;}
+	.sp-page-title {padding: 25px 0;}
+	.send-request .send-request-left h3 {font-size: 22px;}
+	.send-request-left {margin-bottom: 15px;}
+	.width-in {width: 640px;}
+	.StripeElement {width: 100%;}
+	.form-row .table-responsive {overflow-x: scroll;} 
+	.create-request .col-md-5{padding-left: 15px !important;}
+	.create-request .tow-btn .btn-style-one {padding: 8px 10px; margin-bottom: 15px} 
+	.edit-proper-ty .col-md-5 {padding-left: 15px !important;}
+	.main-slider h1 {font-size: 22px !important;}
+	.main-slider .tp-caption {white-space: inherit !important; width: 100% !important;}
+<<<<<<< HEAD
+=======
+	.main-slider .text  {text-align: inherit !important; width: 320px !important;}
+	.bg-white .col-md-4 {padding-right: 15px!important;}
+>>>>>>> d98132e7a442850a07548adefe7a5e700121073b
+}
